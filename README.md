@@ -55,4 +55,3 @@ For any questions or suggestions, feel free to reach out:
 
 - **Name:** Jayni Joshi
 - **Email:** jaynijoshi07@gmail.com
-- **LinkedIn:** [Jayni Joshi]([https://www.linkedin.com/in/jaynijoshi/])
