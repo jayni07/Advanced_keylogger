@@ -53,6 +53,6 @@ This keylogger is intended for educational purposes only. Unauthorized use of th
 
 For any questions or suggestions, feel free to reach out:
 
-- **Name:** Shobhit Tomer
-- **Email:** shobhittomer0810@gmail.com
-- **LinkedIn:** [Shobhit Tomer](https://www.linkedin.com/in/shobhit-tomer-421841251/)
+- **Name:** Jayni Joshi
+- **Email:** jaynijoshi07@gmail.com
+- **LinkedIn:** [Jayni Joshi]([https://www.linkedin.com/in/jaynijoshi/])
